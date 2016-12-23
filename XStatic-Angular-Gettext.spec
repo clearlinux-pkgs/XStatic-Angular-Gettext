@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Angular-Gettext
 Version  : 2.1.0.2
-Release  : 5
+Release  : 6
 URL      : https://pypi.python.org/packages/source/X/XStatic-Angular-Gettext/XStatic-Angular-Gettext-2.1.0.2.tar.gz
 Source0  : https://pypi.python.org/packages/source/X/XStatic-Angular-Gettext/XStatic-Angular-Gettext-2.1.0.2.tar.gz
 Summary  : Angular-Gettext 2.1.0 (XStatic packaging standard)
