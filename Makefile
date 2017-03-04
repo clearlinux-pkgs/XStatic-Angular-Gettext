@@ -1,5 +1,5 @@
 PKG_NAME := XStatic-Angular-Gettext
-URL := https://pypi.python.org/packages/source/X/XStatic-Angular-Gettext/XStatic-Angular-Gettext-2.1.0.2.tar.gz
-ARCHIVES :=
+URL := http://pypi.debian.net/XStatic-Angular-Gettext/XStatic-Angular-Gettext-2.3.8.0.tar.gz
+
 
 include ../common/Makefile.common
