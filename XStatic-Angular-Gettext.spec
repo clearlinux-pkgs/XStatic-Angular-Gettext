@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Angular-Gettext
 Version  : 2.3.8.0
-Release  : 11
+Release  : 12
 URL      : http://pypi.debian.net/XStatic-Angular-Gettext/XStatic-Angular-Gettext-2.3.8.0.tar.gz
 Source0  : http://pypi.debian.net/XStatic-Angular-Gettext/XStatic-Angular-Gettext-2.3.8.0.tar.gz
 Summary  : Angular-Gettext 2.3.8 (XStatic packaging standard)
